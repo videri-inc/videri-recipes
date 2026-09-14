@@ -1,0 +1,5 @@
+# CODEOWNERS for videri-recipes
+# Replace placeholders with GitHub handles before the first pull request.
+
+*                @MARCO_GITHUB_HANDLE @DARREN_GITHUB_HANDLE
+/CONFORMANCE.md  @MARCO_GITHUB_HANDLE
