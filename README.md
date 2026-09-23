@@ -5,8 +5,8 @@ experience you can run from the starter kit and adapt, with a `recipe.md` that
 records what it does, what it relies on, the prompt that produced it, and how
 far it has been validated.
 
-**Status: internal preview.** First recipe (menu board) lands under
-CORE-10268.
+**Status: public preview.** The first recipe (menu board) is in progress.
+Licensed under Apache-2.0; recipe documents may be reused with attribution.
 
 ## Layout
 
